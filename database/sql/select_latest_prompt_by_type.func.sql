@@ -1,0 +1,1 @@
+SELECT content FROM prompts WHERE optype = '@TYPE' ORDER BY version DESC LIMIT 1;

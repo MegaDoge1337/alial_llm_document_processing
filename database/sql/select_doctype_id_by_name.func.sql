@@ -1,0 +1,1 @@
+SELECT id FROM doctypes WHERE name = '@DOCTYPE';

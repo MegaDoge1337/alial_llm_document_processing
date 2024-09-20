@@ -1,0 +1,1 @@
+INSERT INTO filesdata (fileid, doctype, docnumber, docdate, executor, sum) VALUES (@FILEID, @DOCTYPEID, '@DOCMUMBER', '@DOCDATE', '@EXECUTOR', '@SUM');

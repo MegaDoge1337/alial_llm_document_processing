@@ -1,0 +1,1 @@
+SELECT content FROM prompts WHERE optype = 'extraction' AND doctype = @DOCTYPEID ORDER BY version DESC LIMIT 1;

@@ -1,0 +1,5 @@
+{
+  "targets": ["DocType", "DocNumber", "DocDate", "Executor", "Sum"],
+  "ignore": ["\"", ":"],
+  "stop": [",", "}"]
+}

@@ -1,0 +1,1 @@
+UPDATE files SET status = '@STATUS' WHERE id = '@FILEID';

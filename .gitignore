@@ -1,0 +1,15 @@
+# environment
+.env
+
+# python
+venv
+__pycache__
+
+# app dirs
+bin
+ssl
+storage
+utils
+
+# logs
+./logs/*.log
